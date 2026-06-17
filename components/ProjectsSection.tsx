@@ -20,7 +20,7 @@ const projects: Array<Projects> = [
     description:
       "I don't have a job history, but I have a very complete project on the web, which is equivalent to a complete site about digital currencies.",
     package:
-      'React.js,Next.js,Next.js API route,TailwindCSS,Chart.js,Scss,TypeScript,PWA',
+      'React.js,Next.js,Next.js API route,Auth,Mongodb,TailwindCSS,i18next(Change languages),Chart.js,Scss,TypeScript,PWA',
     image: '/marx.png',
     link: 'https://marx.liara.run',
     github: 'https://github.com/ehsan54321/marx',
@@ -30,7 +30,7 @@ const projects: Array<Projects> = [
     name: 'This project',
     description: 'My CV.',
     image: '/this.png',
-    package: 'React.js,Next.jsTailwindCSS,TypeScript',
+    package: 'React.js,Next.js,TailwindCSS,TypeScript',
     link: 'http://ehsan-kazemi.ir',
     github: 'https://github.com/ehsan54321/ehsan-kazemi',
     aos: 'flip-down',
